@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment folders
+rag_pdf/
+.rag_pdf/
+rag_pdf/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Chroma DB (Vector Store)
+db/
+.db/
+vectorstore_chroma_pdf/
+.vectorstore_chroma_pdf/
+
+# Streamlit file cache
+.streamlit/
+
+# Environment files
+.env
+.env.*
+
+# pyright / mypy / testing
+.mypy_cache/
+.pyright/
+coverage.*
+htmlcov/
+.cache/
+pytest_cache/
