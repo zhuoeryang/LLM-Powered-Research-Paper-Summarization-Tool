@@ -47,9 +47,7 @@ This project is a proof-of-concept (POC) for an LLM-based tool designed to extra
 
 ## References
 
-This project was inspired and guided by the work of [Original Author's Name or Handle].
-
-- [Extracting Structured Data From PDFs] by [Thu vu]
+This project was inspired and guided by the work of [Extracting Structured Data From PDFs] by [Thu vu]
 - Langchain documentation: https://docs.langchain.com/
 - Streamlit documentation: https://docs.streamlit.io/
 - OpenAI API documentation: https://platform.openai.com/docs
