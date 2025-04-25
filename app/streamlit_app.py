@@ -1,5 +1,5 @@
 import streamlit as st  
-from functions import *
+from functions_updated import *
 import base64
 
 # Initialize the API key in session state if it doesn't exist
